@@ -26,9 +26,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+### home.html
 ```
-home.html
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -72,7 +71,7 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>YUVA SOFTWARE DEVELOPING CENTER</h1>
+                    <h1>KEERTHIVASAN SOFTWARE DEVELOPING CENTER</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
@@ -80,7 +79,7 @@ home.html
                     <p style="color:orange; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Teaching center.</p>
                     </div>
                     
-                    <div class="content1">Software developers are the creative force behind computer programs of all kinds.<br>They design and write the code used to build everything from operating systems to apps to video games.<br>A Software Developer designs and builds computer programs that power mobile devices, desktop computers, and even cars.<br>Software developers need to stay up-to-date on the latest advancements regarding the tools, frameworks, programming languages, and apps to achieve success.<br>You can learn from<span style="background-color:lime">YUVA SOFTWARE DEVELOPING CENTER</span>
+                    <div class="content1">Software developers are the creative force behind computer programs of all kinds.<br>They design and write the code used to build everything from operating systems to apps to video games.<br>A Software Developer designs and builds computer programs that power mobile devices, desktop computers, and even cars.<br>Software developers need to stay up-to-date on the latest advancements regarding the tools, frameworks, programming languages, and apps to achieve success.<br>You can learn from<span style="background-color:lime">KEERTHIVASAN SOFTWARE DEVELOPING CENTER</span>
                          for Rs.1000 | Get free certificate | Intenship programs | Workshops | Hackathons | And much more...
                         <img src="/static/images/home.png"></div>
                     
@@ -88,15 +87,14 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KEERTHIVASAN</footer></div>
             </div>
         </div>
     </body>
 </html>
-
-products.html
-
-<!DOCTYPE html>
+```
+### products.html
+``` <!DOCTYPE html>
 <html lang="en">
     <head>
         <title>
@@ -292,18 +290,21 @@ products.html
                     <div class="l6"><p align="center"><b>PHP<br> Price: 5999.00</b><br><br><br><br></p></div>
          
                 </div>
-                <div class="bot"><p>To Order Online: Call 80 60 40 2004</p></div>
+                <div class="bot"><p>To Order Online: Call 8481368232</p></div>
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KEERTHIVASAN</footer></div>
             </div>
         </div>
     </body>
 </html>
+```
+         
 
-people.html
+### people.html
 
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -483,35 +484,36 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Yuvaranithulasingam</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>KEERTHIVASAN</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="right"><b><h2>Panimalar</h2></b></p></div>
+                    <div class="man1"><p align="right"><b><h2>SAVEETHA</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p align="left"><b><h2>Jonal</h2></b></p></div>
+                    <div class="man2"><p align="left"><b><h2>JOHN</h2></b></p></div>
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="right"><b><h2>Sasi devi</h2></b></p></div>
+                    <div class="am1"><p align="right"><b><h2>TANU</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>keerthana</h2></b></p></div>
+                    <div class="am2"><p align="center"><b><h2>AFTHAN</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="left"><b><h2>Vishnu priya</h2></b></p></div><br>
+                    <div class="am3"><p align="left"><b><h2>KATHIR</h2></b></p></div><br>
                     <div class="text">Thank you so much for your kind support!<br>Hope our teaching had made you more to create a new world with TECHNOLOGY.<br> We hope that, we are helping you to develop your programming skills.</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KEERTHIVASAN</footer></div>
             </div>
         </div>
     </body>
 </html>
+```
 
-contact.html
-
+### contact.html
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -562,25 +564,26 @@ contact.html
                         Poonamallee, Chennai, TamilNadu, India.
                     </p>
                     <ul>
-                        <li><b>Landline:</b> 14345677</li>
-                        <li><b>Mobile</b>: 80 60 40 2004</li>
-                        <li><b>Facebook</b>: fb/yuvadeveloping</li>
-                        <li><b>Email Id:</b>yuvasoft@gmail.com</li>
+                        <li><b>Landline:</b> 14478585</li>
+                        <li><b>Mobile</b>: 82549138821</li>
+                        <li><b>Facebook</b>: fb/keerthi</li>
+                        <li><b>Email Id:</b>rdxkeerthi@gmail.com</li>
                     </ul>
                     <div style="text-align: center;color:red;font-size:20px;"><b>Use our services and Make your bright Future!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Yuvaranithulasingam</footer></div>
+                Copyright &copy;2023 Developed by KEERTHIVASAN</footer></div>
             </div>
         </div>
     </body>
 </html>
+```
+### styles.css
 
-styles.css
-
-.home{
+```
+        .home{
             height: 700px;
             width: 85%;
             border: 12px solid lawngreen;
@@ -711,15 +714,11 @@ styles.css
             margin-right:auto;
 
         }
-```
-## OUTPUT:
-![Output](./out(home).png)
-![Output](./out(pro).png)
-![Output](./out(people).png)
-![Output](./out(con).png)
+``` 
+### OUTPUT:
+![web1](https://github.com/rdxkeerthi/website/assets/147473120/e2645d81-09e7-4d24-a3aa-c0f09a6b5e7a)
+![web2](https://github.com/rdxkeerthi/website/assets/147473120/c1fa1863-b5df-48b4-a480-0387d43f20ca)
+![web3](https://github.com/rdxkeerthi/website/assets/147473120/75a381a3-62e2-4f04-a3f8-e6d7474d4619)
 
-## HTML VALIDATOR:
-
-![Html validator](./ex7(valid).png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
